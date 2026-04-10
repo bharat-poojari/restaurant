@@ -198,6 +198,43 @@ section {
   margin-inline: auto;
 }
 
+.faq-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5rem;
+  margin-top: var(--spacing-lg);
+}
+
+.faq-card {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 24px;
+  padding: 2rem;
+  box-shadow: var(--shadow-sm);
+  transition: transform var(--transition-base), border-color var(--transition-base);
+}
+
+.faq-card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(255, 69, 0, 0.25);
+}
+
+.faq-card h3 {
+  font-size: 1.1rem;
+  margin-bottom: 0.75rem;
+}
+
+.faq-card p {
+  color: var(--text-secondary);
+  line-height: 1.8;
+}
+
+@media (max-width: 900px) {
+  .faq-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* NAVIGATION */
 .navbar {
   position: fixed;
