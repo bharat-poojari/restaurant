@@ -5,7 +5,7 @@ const Hero = ({ scrollToSection }) => {
     <section id="home" className="hero">
       <div className="hero-video-wrapper">
         <video className="hero-video" autoPlay loop muted playsInline>
-          <source src="../../a.mp4" type="video/mp4" />
+          <source src="a.mp4" type="video/mp4" />
         </video>
         <div className="hero-overlay"></div>
         <div className="hero-particles"></div>
