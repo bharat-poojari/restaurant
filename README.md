@@ -157,8 +157,8 @@ graph LR
     <td><strong>📞 Contact Section</strong></td>
   </tr>
   <tr>
-    <td><img src="https://via.placeholder.com/400x250/1e1e1e/ffffff?text=About+Restaurant" alt="About"/></td>
-    <td><img src="https://via.placeholder.com/400x250/1e1e1e/ffffff?text=Contact+Form" alt="Contact"/></td>
+    <td><img src="https://raw.githubusercontent.com/bharat-poojari/restaurant/main/src/assets/s3.png" alt="About"/></td>
+    <td><img src="https://raw.githubusercontent.com/bharat-poojari/restaurant/main/src/assets/s4.png" alt="Contact"/></td>
   </tr>
 </table>
 
