@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![React Restaurant Demo](https://raw.githubusercontent.com/bharat-poojari/restaurant/main/public/logo.png)
+  ![React Restaurant Demo](https://raw.githubusercontent.com/bharat-poojari/restaurant/main/src/assets/s1.png)
 
   ### ⚛️ Modern Restaurant Website Built with React + Vite
 
@@ -149,8 +149,8 @@ graph LR
     <td><strong>🍕 Menu Section</strong></td>
   </tr>
   <tr>
-    <td><img src="https://via.placeholder.com/400x250/1e1e1e/ffffff?text=Restaurant+Hero+Section" alt="Hero"/></td>
-    <td><img src="https://via.placeholder.com/400x250/1e1e1e/ffffff?text=Menu+Items+Display" alt="Menu"/></td>
+    <td><img src="https://raw.githubusercontent.com/bharat-poojari/restaurant/main/src/assets/s1.png" alt="Hero"/></td>
+    <td><img src="https://raw.githubusercontent.com/bharat-poojari/restaurant/main/src/assets/s2.png" alt="Menu"/></td>
   </tr>
   <tr>
     <td><strong>📖 About Page</strong></td>
