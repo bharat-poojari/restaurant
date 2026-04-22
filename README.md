@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![React Restaurant Demo](https://raw.githubusercontent.com/bharat-poojari/restaurant/main/public/logo.png)
+  ![React Restaurant Demo](https://raw.githubusercontent.com/bharat-poojari/restaurant/main/src/assets/s1.png)
 
   ### ⚛️ Modern Restaurant Website Built with React + Vite
 
